@@ -1,0 +1,2 @@
+ this is a just readme file
+ for practicing git
